@@ -54,7 +54,6 @@ sap.ui.jsview("resume.aboutme", {
 			
 			]
 		});
- 		page.addStyleClass("myclass");
 	}
 
 });
